@@ -1,0 +1,14 @@
+.git
+.gitignore
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+node_modules/
+**/node_modules/
+*.log
+Dockerfile
+.dockerignore
